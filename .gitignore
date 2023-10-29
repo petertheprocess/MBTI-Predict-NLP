@@ -1,1 +1,3 @@
 data/mbti_1_cleaned.csv
+model/*
+src/tex/*
